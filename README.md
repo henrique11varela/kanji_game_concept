@@ -1,1 +1,1 @@
-# kanji_game
+# kanji_game_concept
